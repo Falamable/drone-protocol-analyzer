@@ -1,6 +1,6 @@
-# Reverse-Engineering My Drone: An AS Level Project 🚁
+# Reverse-Engineering My Drone: Physics Project 🚁
 
-For my AS Level Computer Science project, I decided to do something a bit different: I reverse-engineered the communication protocol for my DMH002HW drone so I could write my own Python script to fly it!
+For my Physics project, I decided to do something a bit different: I reverse-engineered the communication protocol for my DMH002HW drone so I could write my own Python script to fly it!
 
 This project helped me apply the theory I've been learning about **Networks (UDP/IP), Hexadecimal, Binary Data, and Programming** into a real-world scenario. Here's a breakdown of how I did it.
 
@@ -128,4 +128,4 @@ if __name__ == "__main__":
 ```
 
 ### Next Steps for my Project
-My next goal is to hook up my PlayStation controller using the `pygame` library in Python. I'll map the physical controller stick movements to numbers between `0` and `255`, convert them to Hexadecimal, and inject them directly into bytes 20 to 23 of my payload so I can actually fly it!
+My next goal is to programatically control the Drone to understand the aero dynomics and flight path!
