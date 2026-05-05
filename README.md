@@ -129,3 +129,13 @@ if __name__ == "__main__":
 
 ### Next Steps for my Project
 My next goal is to programatically control the Drone to understand the aero dynomics and flight path!
+
+### Components used
+
+* DHW002HW with Camara module (HW)
+* Android Studio and Android Virtual Device Emulator
+* WireShark
+* Wifi UAV App
+* Acer Laptop (HW)
+* AntiGraviity
+
